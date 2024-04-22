@@ -11,7 +11,7 @@ self.__uv$config = {
      * @type {string}
      */
     bare: [
-        "https://server.flow-works.me/bare/"
+        "https://prox.imtlazarus.com.alexbadi.es/bare/"
       ],
 
     /**
