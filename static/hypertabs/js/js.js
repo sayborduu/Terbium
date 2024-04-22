@@ -433,7 +433,7 @@ document.cookie = `cua=${localStorage.getItem("ua")}`; // custom User Agent (TOD
 
 window.searchEngine =
   localStorage.getItem("htsearchEngine") ||
-  "https://searx.priv.pw/search?q=";
+  "https://www.google.com/search?q=";
 document.getElementById("customSearch").value = window.searchEngine;
 
 //bookmarks
